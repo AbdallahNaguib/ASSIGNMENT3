@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542478518 source:e:\my work\c++\ass3_team\main.cpp
+	<iostream>
+	<Calender.h>
+
+1542454547 e:\my work\c++\ass3_team\include\time.h
+	<string>
+
+1542456458 source:e:\my work\c++\ass3_team\src\time.cpp
+	"Time.h"
+	<iostream>
+
+1542456669 e:\my work\c++\ass3_team\include\appointement.h
+	<Time.h>
+
+1542456877 source:e:\my work\c++\ass3_team\src\appointement.cpp
+	"Appointement.h"
+
+1542478205 e:\my work\c++\ass3_team\include\dayappointments.h
+	<Appointement.h>
+
+1542478886 source:e:\my work\c++\ass3_team\src\calender.cpp
+	"Calender.h"
+	<iostream>
+
+1542478445 e:\my work\c++\ass3_team\include\calender.h
+	<DayAppointments.h>
+
+1542479125 source:e:\my work\c++\ass3_team\src\dayappointments.cpp
+	"DayAppointments.h"
+
